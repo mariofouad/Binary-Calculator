@@ -14,8 +14,8 @@ This was the project of the "Logic Design" course at Cairo University, Computer 
 4. Open the "ArithmeticLogicUnit" folder
 5. Open the "Integration.circ" file using logisim and add the needed files
 
-
 ![image](https://github.com/mariofouad/CPU-Scheduler/assets/119708778/f1ceba01-9b16-4438-a4db-ecc8391fda9b)
+
 6. Enter binary numbers for A and B bits to be calculated and choose the operation:
      * 00 --> Addition
      * 01 --> Subtraction
